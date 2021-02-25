@@ -1,0 +1,51 @@
+body {
+  font-family: "Lato","proxima-nova","Helvetica Neue",Arial,メイリオ,Meiryo,"ヒラギノ角ゴ Pro W3","Hiragino Kaku Gothic Pro",sans-serif;
+}
+
+h1, h2, .rst-content p.caption, h3, h4, h5, h6, legend {
+  font-family: "Lato","proxima-nova","Helvetica Neue",Arial,メイリオ,Meiryo,"ヒラギノ角ゴ Pro W3","Hiragino Kaku Gothic Pro",sans-serif;
+}
+
+.admonition p {
+  font-size: 15px;
+  line-height: 150%;
+}
+
+.document img {
+  border: 1px solid #ddd;
+}
+
+.guilabel, .dfn {
+  font-weight: bold;
+}
+
+.menuselection {
+  font-weight: bold;
+}
+
+/* リテラル */
+.docutils.literal {
+  font-size: 14px;
+}
+
+/* コードブロック */
+div[class^="highlight"] pre {
+  font-size: 13px;
+}
+
+.figure p.caption {
+  font-size: 15px;
+  font-weight: normal;
+  text-align: center;
+  background: #f0f0f0;
+}
+
+/* テーブル */
+.wy-table-responsive table td {
+  white-space: normal;
+}
+
+html.writer-html5 .rst-content table.docutils td>p,
+html.writer-html5 .rst-content table.docutils th>p {
+ line-height: initial;
+}
