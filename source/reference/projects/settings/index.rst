@@ -5,7 +5,7 @@
 
 .. figure:: ../../images/projects-settings.png
 
-     プロジェクトの設定画面
+   プロジェクトの設定画面
 
 
 .. toctree::
