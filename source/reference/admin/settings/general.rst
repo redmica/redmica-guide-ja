@@ -38,7 +38,7 @@ RedMicaのシステム全般に関する設定を行います。
      - 「http」または「https」を選択します。ホスト名と同じく、メール通知でリンクURLを生成するのに使われます。
 
    * - テキストの書式
-     - 「なし」、「textile」または「Markdown」を選択します。デフォルトは「textile」で、チケットの説明やWikiでTextile記法による修飾が可能です。
+     - 「なし」、「Textile」、「Markdown」、「CommonMark Markdown (GitHub Flavored) - experimental」から選択します。デフォルトは「Textile」で、チケットの説明やWikiでTextile記法による修飾が可能です。
 
    * - テキスト書式の変換結果をキャッシュ
      - TextileやMarkdownなどのテキスト書式からHTMLへの変換はブラウザにページを送信するたびに行われます(例: チケットの説明、Wikiページなど)。この設定を有効にすると、変換済みのHTMLがキャッシュされるようになります。
