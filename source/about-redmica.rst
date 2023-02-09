@@ -1,7 +1,7 @@
 RedMicaとは
 *************************
 
-`RedMica <https://www.farend.co.jp/products/redmica/>`_ はプロジェクト管理・課題管理のためのオープンソースソフトウェアです。広く普及しているオープンソースソフトウェア `Redmine <https://redmine.jp/>`_ がベースであり、Redmineに対して上位互換です。
+`RedMica <https://www.redmica.jp/>`_ はプロジェクト管理・課題管理のためのオープンソースソフトウェアです。広く普及しているオープンソースソフトウェア `Redmine <https://redmine.jp/>`_ がベースであり、Redmineに対して上位互換です。
 
 RedMicaの最大の特長は、Redmineの次期バージョンの新機能を先行して使えることです。Redmineより短い6ヶ月間隔でRedmineの最新のソースコードをもとにリリースされるため、Redmineの次期バージョンに向けて開発が完了している機能をいち早く利用できます。
 
