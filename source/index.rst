@@ -14,3 +14,6 @@ RedMicaはオープンソースのプロジェクト管理ソフトウェア `Re
 
    about-redmica
    reference/index
+
+.. note::
+   リファレンス中のスクリーンショットは `Bleuclair <https://github.com/farend/redmine_theme_farend_bleuclair>`_ テーマのものです。
